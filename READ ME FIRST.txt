@@ -1,0 +1,7 @@
+A la racine du dossier, vous trouverez un notebook Jupyter par question
+
+- le dossier 'data' contient les fichiers .csv, d'origine ou transformés
+- Le dossier 'html' contient les fichiers .html des notebooks Jupyter
+- Le dossier 'img' contient les graphiques au format .png
+
+Bonne lecture !
